@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2261a2bc-050d-4bc6-8ca3-24b50bcf9ac0" name="Default Changelist" comment="" />
+    <list default="true" id="2261a2bc-050d-4bc6-8ca3-24b50bcf9ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Borsa_StreamLabsSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Borsa_StreamLabsSystem.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,23 +16,23 @@
     <session id="1863442502">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4541" />
+          <entry key="py" value="5900" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4541" />
+          <entry key="Python" value="5900" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,16 +52,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Borsa_StreamLabsSystem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+            <state relative-caret-position="2042">
+              <caret line="156" column="100" selection-start-line="156" selection-start-column="100" selection-end-line="156" selection-end-column="100" />
               <folding>
-                <marker date="1544057410878" expanded="true" signature="710:814" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="710:1048" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="878:1048" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="3059:3060" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="3679:3680" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="3679:3681" ph="..." />
-                <marker date="1544057410878" expanded="true" signature="3679:3685" ph="..." />
+                <element signature="e#197#210#0" expanded="true" />
+                <marker date="1544095071504" expanded="true" signature="524:696" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="1346:1415" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5128" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5129" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5130" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5133" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5135" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5137" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5141" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5142" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5143" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5126:5148" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5521:5523" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5521:5524" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5521:5530" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5521:5531" ph="..." />
+                <marker date="1544095071504" expanded="true" signature="5521:5535" ph="..." />
               </folding>
             </state>
           </provider>
@@ -72,6 +87,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,11 +103,13 @@
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,7 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,7 +207,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16251831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -196,7 +214,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23364486" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.1588785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1588785" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -233,16 +251,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Borsa_StreamLabsSystem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="121" column="46" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+        <state relative-caret-position="2042">
+          <caret line="156" column="100" selection-start-line="156" selection-start-column="100" selection-end-line="156" selection-end-column="100" />
           <folding>
-            <marker date="1544057410878" expanded="true" signature="710:814" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="710:1048" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="878:1048" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="3059:3060" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="3679:3680" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="3679:3681" ph="..." />
-            <marker date="1544057410878" expanded="true" signature="3679:3685" ph="..." />
+            <element signature="e#197#210#0" expanded="true" />
+            <marker date="1544095071504" expanded="true" signature="524:696" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="1346:1415" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5128" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5129" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5130" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5133" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5135" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5137" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5141" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5142" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5143" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5126:5148" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5521:5523" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5521:5524" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5521:5530" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5521:5531" ph="..." />
+            <marker date="1544095071504" expanded="true" signature="5521:5535" ph="..." />
           </folding>
         </state>
       </provider>
