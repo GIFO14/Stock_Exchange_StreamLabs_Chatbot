@@ -1,0 +1,41 @@
+{
+   "output_file": "settings.json",
+
+   "OpenCompaniesList": {
+    "type": "button",
+    "label": "Open list of companies file",
+    "tooltip": "Opens the file where all companies in the game are listed",
+    "function": "OpenCompanyList",
+    "wsevent": "",
+    "group": "Buttons"
+  },
+  "OpenSettingsFile": {
+    "type": "button",
+    "label": "Open settings file",
+    "tooltip": "Opens the settings file",
+    "function": "OpenSettingsFile",
+    "wsevent": "",
+    "group": "Buttons"
+  },
+  "SetBuyPercentageCompanyCommand": {
+    "type": "textbox",
+    "label": "Buy a Percentage of a Company Command",
+    "value": "!buyPercentage",
+    "tooltip": "Set the command to buy percentage of a company",
+  	"group": "Set game commands"
+  },
+  "SetAskForLoanCommand": {
+    "type": "textbox",
+    "label": "Ask for a Loan Command",
+    "value": "!askLoan",
+    "tooltip": "Set the command to ask the Bank for a loan ",
+  	"group": "Set game commands"
+  },
+  "SetCreateCompanyCommand": {
+    "type": "textbox",
+    "label": "Create a Company",
+    "value": "!createCompany",
+    "tooltip": "Set the command to create a company",
+  	"group": "Set game commands"
+  },
+}

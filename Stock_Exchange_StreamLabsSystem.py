@@ -6,8 +6,9 @@
 # Imports
 # ----------------------------------
 
+import os
 import random
-import datetime
+import json
 
 # ----------------------------------
 # Global variable declarations
@@ -16,6 +17,17 @@ import datetime
 g_companies = []
 g_buyers = []
 g_percentage_of_bank_interest_per_real_life_month = 7
+
+# ----------------------------------
+# External variables
+# ----------------------------------
+
+#def Getting_Setting_file_variables():
+with open('UI_Gonfig.txt', 'r') as f:
+    settings_by_user = f.read()
+    for i in settings_by_user:
+        print (i)
+
 
 # ----------------------------------
 # Classes
@@ -57,9 +69,16 @@ class Bank:
     number_of_loan_given = 0
     money = 9*10**9 # 9 000 000 000
 
+# ----------------------------------
+# UI Functions
+# ----------------------------------
+
+def Open_Companies_List():
+    location = os.path.join(os.path.dirname(__file__), "List of Companies.txt")
+    os.startfile(location)
 
 # ----------------------------------
-# Necessary Functions
+# Program functionalities
 # ----------------------------------
 
 def Create_Company(_name, _owner, _company_value):  # string, float
